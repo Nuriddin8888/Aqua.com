@@ -1,0 +1,14 @@
+<svg width="102" height="102" viewBox="0 0 102 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="simple-icons:facebook" clip-path="url(#clip0_15_393)">
+<path id="Vector" d="M101.991 51C101.991 22.831 79.1605 0 50.9957 0C22.831 0 0 22.831 0 51C0 76.449 18.649 97.546 43.027 101.371V65.739H30.0815V50.9957H43.027V39.763C43.027 26.979 50.643 19.9197 62.288 19.9197C67.8682 19.9197 73.7035 20.9142 73.7035 20.9142V33.4645H67.2775C60.945 33.4645 58.9688 37.3958 58.9688 41.429V51H73.1127L70.8517 65.7432H58.9688V101.375C83.3467 97.5503 101.996 76.4532 101.996 51H101.991Z" fill="url(#paint0_linear_15_393)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_15_393" x1="50.9979" y1="0" x2="50.9979" y2="101.375" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5FC9F3"/>
+<stop offset="1" stop-color="#55ABF5"/>
+</linearGradient>
+<clipPath id="clip0_15_393">
+<rect width="102" height="102" fill="white"/>
+</clipPath>
+</defs>
+</svg>
